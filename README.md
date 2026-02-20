@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on AWS projects<br>
+ I’m currently building AWS projects<br>
 
 
 ## 🌐 Socials:
