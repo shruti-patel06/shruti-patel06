@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shruti%20Patel&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=B.Tech%20IT%20Student%20%7C%20Building%20Practical%20AI%20Systems%20%7C%20Hackathon%20Builder%20%26%20Open-Source%20Contributor&descSize=18&descAlignY=55&textBg=false"/>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Build%20it%2C%20break%20it%2C%20learn%20from%20it%2C%20ship%20it%20again." alt="Typing introduction" />
 </p>
@@ -29,15 +27,12 @@
 - Open-source contribution
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 <p align="center">
   <a href="https://github.com/shruti-patel06">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shruti-patel06&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="shruti-patel06's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=shruti-patel06&theme=github_dark&hide_border=true&cache_seconds=86400" alt="shruti-patel06's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-patel06&theme=github_dark&radius=10" alt="shruti-patel06's Activity Graph" />
 </p>
 
 
