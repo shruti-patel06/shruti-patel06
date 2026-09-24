@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Build%20it%2C%20break%20it%2C%20learn%20from%20it%2C%20ship%20it%20again." alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=shruti-patel06">
-    <img src="https://komarev.com/ghpvc/?username=shruti-patel06&label=Profile%20views&color=00FFFF&style=flat-square" alt="shruti-patel06's profile views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=14&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Build%20it%2C%20break%20it%2C%20learn%20from%20it%2C%20ship%20it%20again." alt="Typing introduction" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
