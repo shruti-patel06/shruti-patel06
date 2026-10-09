@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=4000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=520&lines=Build+it%2C+break+it%2C+learn+from+it%2C+ship+it+again." alt="Typing introduction" />
 </p>
-
 ## 📌 About Me
 
 - 🎓 IV Year B.Tech IT student
