@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=4000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=520&lines=Build+it%2C+break+it%2C+learn+from+it%2C+ship+it+again." alt="Typing introduction" />
 </p>
+
 ## 📌 About Me
 
 - 🎓 IV Year B.Tech IT student
@@ -85,6 +86,9 @@
   <a href="https://www.linkedin.com/in/shruti-patel06/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/shruti_patel00"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:shruti.8717@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/shruti-patel06/Portfolio"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="Footer" />
